@@ -1,0 +1,4 @@
+[submodule "dummy-repo-123"]
+	path = dummy-repo-123
+[submodule "dummy-repo-123"]
+	url = https://github.com/mr-wallet/dummy-repo-123
