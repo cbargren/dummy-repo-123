@@ -1,0 +1,8 @@
+[submodule "dummy-repo-123"]
+	path = dummy-repo-123
+[submodule "dummy-repo-123"]
+	url = https://github.com/mr-wallet/dummy-repo-123
+[submodule "dummy-repo-bitbucket"]
+	path = dummy-repo-bitbucket
+[submodule "dummy-repo-bitbucket"]
+	url = https://cbargren@bitbucket.org/cbargren/dummy-repo-bitbucket.git
