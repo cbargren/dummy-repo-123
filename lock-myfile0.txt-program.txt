@@ -1,0 +1,25 @@
+   Stack around the variable ' ' was corrupted.    The variable '  ' is being used without being initialized.                                      The value of ESP was not properly saved across a function call.  This is usually a result of calling a function declared with one calling convention with a function pointer declared with a different calling convention.
+
+                                                    A cast to a smaller data type has caused a loss of data.  If this was intentional, you should mask the source of the cast with the appropriate bitmask.  For example:
+
+	char c = (i & 0xFF);
+
+Changing the code in this way will not affect the quality of the resulting optimized code.
+
+                                                            Stack memory was corrupted
+
+        A local variable was used before it was initialized
+
+           Stack memory around _alloca was corrupted
+
+         Unknown Runtime Check Error
+
+           R u n t i m e   C h e c k   E r r o r .
+
+   U n a b l e   t o   d i s p l a y   R T C   M e s s a g e .                               R u n - T i m e   C h e c k   F a i l u r e   # % d   -   % s               Unknown Filename    Unknown Module Name     Run-Time Check Failure #%d - %s         Stack corrupted near unknown variable           %.2X    u s e r 3 2 . d l l         wsprintfA   Stack area around _alloca memory reserved by this function is corrupted
+
+Data: <
+Allocation number within this function:
+Size:      
+Address: 0x        Stack area around _alloca memory reserved by this function is corrupted                 %s%s%p%s%ld%s%d%s
+   >   %s%s%s%s    A variable is being used without being initialized.             T`A t`A ¨`A Ä`A ø`A     Stack pointer corruption        Cast to smaller type causing loss of data           Stack memory corruption     Local variable used before initialization           Stack around _alloca corrupted                              ( _ _ o n e x i t b e g i n   ! =   N U L L   & &   _ _ o n e x i t e n d   ! =   N U L L )   | |   ( _ _ o n e x i t b e g i n   = =   N U L L   & &   _ _ o n e x i t e n d   = =   N U L L )                                         f : \ d d \ v c t o o l s \ c r t \ c r t w 3 2 \ d l l s t u f f \ a t o n e x i t . c                     f:\dd\vctools\crt\crtw32\dllstuff\atonexit.c                f : \ d d \ v c t o o l s \ c r t \ c r t w 3 2 \ s t a r t u p \ i 3 8 6 \ f p 8 . c                       _ s e t d e f a u l t p r e c i s i o n             _ c o n t r o l f p _ s ( ( ( v o i d   * ) 0 ) ,   0 x 0 0 0 1 0 0 0 0 ,   0 x 0 0 0 3 0 0 0 0 )                       b i n \ M S P D B 1 2 0 . D L L     M S V C R 1 2 0 D . d l l                        €ÿÿ   ðÿÿ ÿ  A D V A P I 3 2 . D L L         RegOpenKeyExW   RegQueryValueExW    RegCloseKey         S O F T W A R E \ M i c r o s o f t \ V i s u a l S t u d i o \ 1 2 . 0 \ S e t u p \ V C                       P r o d u c t D i r         D L L       M S P D B 1 2 0         M S P D B 1 2 0         PDBOpenValidate5    r   ˆA ØA         H                                                           $€A                                                                                                                                                                                                                                                                                                                                                             RSDSx“ÒZÿ¸DºaG¤˜žÈ‚   c:\users\jordanw\documents\visual studio 2013\Projects\Project1\Debug\Project1.pdb            
