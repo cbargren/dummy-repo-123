@@ -1,10 +1,1 @@
-testrsysrgasdfasdfasdfasdfaasdfaasdfasdfasdf
-
-asdfaaa
-<<<<<<< Updated upstream
- scoot boots
-=======
- scoot bootss
- 
- 
->>>>>>> Stashed changes
+stuff
