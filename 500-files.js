@@ -1,4 +1,4 @@
-var fs = require('fs');
+bvar fs = require('fs');
 
 try {
   fs.mkdir('./500_files');
