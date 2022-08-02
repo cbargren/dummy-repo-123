@@ -1,0 +1,3 @@
+[submodule "dummy-repo-123"]
+	path = dummy-repo-123
+	url = https://github.com/implausible/dummy-repo-123.git
